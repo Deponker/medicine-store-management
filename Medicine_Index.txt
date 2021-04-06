@@ -1,0 +1,9 @@
+Medicine Name:      Bracel
+Company Name:       Acme Pharma
+Medicine ID:        1
+Medicine Quantity:  100
+Production Date:    12/12/2020
+Expired Date:       12/12/2021
+Measurement:        20 mg
+Price:              20.000000 Tk.
+
